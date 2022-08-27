@@ -32,7 +32,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Not much difficulty, it was more taking time to gather resources as I'm relatively new with working with Xcode and using Swift. Then it was mostly working with the prework web page to complete the work.
 
 ## License
 
